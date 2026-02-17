@@ -1,0 +1,54 @@
+# Dependencies
+node_modules
+*.npm
+*.yarn
+.pnp
+.pnp.js
+
+# Environment variables
+.env
+.env.*
+!.env.example
+.env.local
+.env.*.local
+
+# Build outputs
+dist
+build
+out
+.next
+.nuxt
+.cache
+.vuepress/dist
+
+# IDE & Editor
+.vscode
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.swp
+*.swo
+*~
+.DS_Store
+.AppleDouble
+.LSOverride
+*.sublime-workspace
+*.sublime-project
+.vim/*
+.vimrc
+
+# OS
+Thumbs.db
+ehthumbs.db
+*.log
+*.logs
+
+# Testing
+coverage
+.nyc_output
+
+# Misc
+.turbo
+.pnpm-debug.log*
+.yarn-error.log*
+lerna-debug.log*
