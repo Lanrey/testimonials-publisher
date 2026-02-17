@@ -84,7 +84,7 @@ Frontend is available on `http://localhost:5173`.
 
 Admin requests require header `x-admin-token`.
 
-## Suggested Demo Flow
+## Demo Flow
 
 1. Create a form
 
@@ -116,4 +116,3 @@ Visit `http://localhost:5173/#/wall/ava`.
 
 ## Notes
 
-This project is intentionally small to fit a 1-2 hour implementation window while still covering Senja's tech stack and product loop.
